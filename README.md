@@ -14,7 +14,7 @@ Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da platafo
 
   - CSS
 
-  <h3 align="center">Resultado<h3>
+  <h3 align="center">Resultado 🚀<h3>
 
   <div align="center">
     <img src="/instagram/img/result.png" alt="Interface de Login do Instagram"/>

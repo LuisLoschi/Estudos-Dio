@@ -21,7 +21,7 @@ Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da platafo
   </div>
 </details>
 
-#
+<hr >
     
 ### Projeto clonando página da Netflix
 <details> 

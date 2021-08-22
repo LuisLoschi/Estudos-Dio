@@ -29,7 +29,7 @@ Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da platafo
   
   <br >
   
-  Repositório voltado para a aula da Digital Innovation One imitando a página da netflix com um leve toque de nostalgia. Foram estudos os conceitos de: 
+  Repositório voltado para a aula da Digital Innovation One imitando a página da netflix com um leve toque de nostalgia. Foram estudados os conceitos de: 
   - Estrutura de layout com containers e variáveis
   - Flexbox 
   - Responsividade 
@@ -44,6 +44,6 @@ Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da platafo
   <h3 align="center">Resultado 📽<h3>
 
   <div align="center">
-    <img src="/img/resultado.gif" alt="Interface da página"/>
+    <img src="/netflix/img/resultado.gif" alt="Interface da página"/>
   </div>
 </details> 

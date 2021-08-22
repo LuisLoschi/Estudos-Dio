@@ -1,0 +1,174 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+:root {
+    /* COLORS */
+    --red: #E50914;
+    --button-black: rgba(0, 0, 0, 0.5);
+    --button-white: rgb(255, 255, 255);
+    --fundo-tela-preto: #141414;
+    --text-gray: #AAA;
+    --text-white: #FFF;
+    --text-black: #000;
+    
+    
+    /* Fonts */
+    font-size: 62.5%;
+    --font-logo: 'Arial Black', 'Arial';
+    --font-title: 'Trebuchet MS', 'Arial', 'sans-serif';
+    --font-text: 'sans-serif', 'Arial', 'Times';
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--fundo-tela-preto);
+    color: var(--text-white);
+}
+
+.container {
+    margin-left: 5rem;
+}
+
+/* HEADER */
+header .container {
+    display: flex;
+    align-items: center;
+    margin-right: 5rem;
+}
+
+header .logo-netflix {
+    font-family: var(--font-logo);
+    font-size: 4rem;
+    color: var(--red);
+    margin-right: 4rem;
+}
+
+header nav a {
+    font-size: 1.5rem;
+    font-family: var(--font-text);
+    color: var(--text-gray);
+    margin-right: 1rem;
+}
+
+header nav a:hover {
+    color: var(--text-white);
+}
+
+nav .fa-search {
+    color: var(--text-gray);
+    font-size: 1.6rem;
+}
+
+nav .icon {
+    display: inline-block;
+    justify-content: end;
+}
+
+
+/* MAIN */
+main .main-movie {
+    background: linear-gradient(
+        rgba(0, 0, 0, .50), 
+        rgba(0, 0, 0, .50)100%), url('/img/capa.png');
+    ;
+    height: 58rem;
+    background-size: cover;
+    background-position: bottom;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+main .container {
+    width: 70%;
+}
+
+main .title {
+    font-size: 5rem; 
+    font-family: var(--font-title);
+}
+
+main .description {
+    font-size: 1.7rem;
+    font-family: var(--font-text);
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
+
+.button {
+    padding: 1.5rem 3rem;
+    font-size: 1.6rem;
+    font-family: var(--font-text);
+    background-color: var(--button-black);
+    color: var(--text);
+    border: none;
+    text-transform: uppercase;
+    margin-right: 1.5rem;
+    cursor: pointer;
+    transition: 0.3s ease all;
+}
+
+
+.button:hover {
+    color: var(--text-black);
+    background-color: var(--button-white);
+}
+
+.button i {
+    margin-right: .5rem;
+}
+
+/* CAROUSEL */
+.carousel-movie {
+    overflow-y: hidden;
+}
+
+.owl-title {
+    font-size: 3rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+
+.item img{
+    margin-top: 1rem;
+    position: relative;
+}
+
+.item:hover {
+    transform: scale(1.1);
+    transition: .2s;
+}
+
+.box-movie {
+    position: relative;
+}
+
+.play {
+    display: none;
+}
+
+.play h4 i {
+    color: var(--text-white);
+}
+
+.item:hover .play {
+    display: block;
+    font-size: 10rem;
+    cursor: pointer;
+} 
+
+.play {
+    position: absolute; 
+    top:50%; 
+    left:50%; 
+    transform: translate(-50%, -50%); 
+}

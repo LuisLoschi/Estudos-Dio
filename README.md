@@ -1,7 +1,7 @@
-# Projetos Web 
+# Projetos Web 📚
 Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da plataforma <a href="https://web.digitalinnovation.one/">Digital Innovation One<a/>.
 
-### Projeto página de Login do Instagram
+### Projeto página de login do Instagram
 <details> 
   <summary><strong>Veja mais</strong></summary>
   
@@ -23,7 +23,7 @@ Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da platafo
 
 #
     
-### Projeto Clonando página da Netflix
+### Projeto clonando página da Netflix
 <details> 
   <summary><strong>Veja mais</strong></summary>
   

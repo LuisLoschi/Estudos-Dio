@@ -64,6 +64,10 @@ Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da platafo
   - HTML
   - CSS
   - JS
+  
+  ## ✅ Updates:
+  - Imagem de Background do jogo;
+  - Contador;
 
   <h3 align="center">Resultado 🎮<h3>
 

@@ -1,5 +1,7 @@
 # Projetos Web 📚
 Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da plataforma <a href="https://web.digitalinnovation.one/">Digital Innovation One<a/>.
+  
+<hr >
 
 ### Projeto página de login do Instagram 📷
 <details> 

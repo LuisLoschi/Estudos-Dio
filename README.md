@@ -1,7 +1,7 @@
 # Projetos Web 📚
 Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da plataforma <a href="https://web.digitalinnovation.one/">Digital Innovation One<a/>.
 
-### Projeto página de login do Instagram
+### Projeto página de login do Instagram 📷
 <details> 
   <summary><strong>Veja mais</strong></summary>
   
@@ -23,7 +23,7 @@ Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da platafo
 
 <hr >
     
-### Projeto clonando página da Netflix
+### Projeto clonando página da Netflix 📺
 <details> 
   <summary><strong>Veja mais</strong></summary>
   
@@ -45,5 +45,27 @@ Desenvolvimento de websites utilizando HTML, CSS e JavaScrip através da platafo
 
   <div align="center">
     <img src="/netflix/img/resultado.gif" alt="Interface da página"/>
+  </div>
+</details> 
+    
+<hr >
+    
+### Projeto Jogo da cobrinha 🐍
+<details> 
+  <summary><strong>Veja mais</strong></summary>
+  
+  <br >
+  
+  Repositório voltado para a aula da Digital Innovation One onde foi recriado o clássico jogo da cobrinha.
+
+  ## 💻Linguagens utilizadas:
+  - HTML
+  - CSS
+  - JS
+
+  <h3 align="center">Resultado 🎮<h3>
+
+  <div align="center">
+    <img src="/snakeGame/img/snake.gif" alt="Interface da página"/>
   </div>
 </details> 
